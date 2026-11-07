@@ -1,0 +1,7 @@
+/.dependencies/
+*.exe
+*.exe~
+*.dll
+*.log
+*.zip
+.unmida-*.tmp
